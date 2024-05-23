@@ -19,7 +19,7 @@
     "express-ejs-layouts": "^2.2.0",
     "express-partial": "^0.1.0",
     "express-session": "^1.15.5",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "materialize-css": "^0.100.2",
     "mongo-session": "^0.2.15",
     "mongoose": "~4.11.14",
